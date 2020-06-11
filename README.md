@@ -1,6 +1,10 @@
 # Instagram Clone
 This project is a simple Feed UI clone of Instagram App.
 
+## Expo CLI
+To run this app you need Expo CLI. To install it just type the following command:
+### `npm install -g expo-cli`
+
 ## Available Scripts
 
 In the project directory, for the first time you need to install "node_modules" typing the next command:
